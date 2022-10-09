@@ -22,6 +22,4 @@ def load(pelis_series):
 if __name__ == "__main__":
     df = extract()
     transform(df)
-    
-    
     #load(pelis_series)
